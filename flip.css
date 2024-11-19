@@ -1,6 +1,7 @@
 body {
   background: rgb(252, 9, 255);
   background: linear-gradient(32deg, rgba(252, 9, 255, 1) 15%, rgba(0, 212, 255, 1) 100%);
+  background-repeat: no-repeat;
 }
 
 .container {
